@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 
 #funcion que calcula la edad que tendran en el anio en curso
 def calcula_antiguedad(anio_curso, persona) :    
